@@ -5,3 +5,4 @@ numbers.each do |num|
         puts num
     end
 end
+
